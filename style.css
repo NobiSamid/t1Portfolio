@@ -75,3 +75,8 @@ h1 {
 footer p {
     text-align: center;
 }
+
+section h2 {
+    margin-left: 100px;
+    font-size: 50px;
+}
